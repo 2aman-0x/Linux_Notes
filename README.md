@@ -1,5 +1,3 @@
-<img src="hqdefault.jpg" width="700" title="image" >
-
 __click here : 👉🏽__ [Linux_Zero_to_Hero](https://www.youtube.com/playlist?list=PL0tP8lerTbX3eUtBFS0Ir4_aFqKuXWjYZ)  
 
 
