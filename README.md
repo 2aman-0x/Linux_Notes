@@ -39,6 +39,7 @@
 - [Netstat](https://github.com/2aman-0x/Netstat_Overview.git)
 - [Traceroute](https://github.com/2aman-0x/TRACEROUTE.git)
 - [SSH](https://github.com/2aman-0x/SSH.git)
+- [SCP](https://github.com/2aman-0x/SCP.git)
 - [RSYNC](https://github.com/2aman-0x/RSYNC.git)
 - [Firewall](https://github.com/2aman-0x/Linux_Firewall.git)
 - [Sed](https://github.com/2aman-0x/SED_Overview.git)
