@@ -1,4 +1,3 @@
-## All notes are writen from Linux Zero to Hero playlist.
 - [Linux-SU](https://github.com/2aman-0x/Linux_SU.git)
 - [Linux_File_System](https://github.com/2aman-0x/Linux_file_system/tree/main)
 - [Package_management](https://github.com/2aman-0x/Package_Management_commands.git)
