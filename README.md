@@ -1,4 +1,4 @@
-### Here's some notes aboyut linux
+### Here's some notes about linux
 
 - [Wine](https://github.com/2aman-0x/wine.git)
 - [Linux-SU](https://github.com/2aman-0x/Linux_SU.git)
