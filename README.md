@@ -17,7 +17,7 @@
 - [Wild_Cards](https://github.com/2aman-0x/Wild_Cards-linux-.git)
 - [Disk_space_monitoring](https://github.com/2aman-0x/Disk_space_monitoring_command.git)
 - [POSFIX](https://github.com/2aman-0x/POSTFIX.git)
-- [Pipe_Xargs_Git](https://github.com/2aman-0x/Pipe_Tee_Xargs.git)
+- [Pipe_Tee_Xargs](https://github.com/2aman-0x/Pipe_Tee_Xargs.git)
 - [DMESG](https://github.com/2aman-0x/Dmesg.git)
 - [Chown_Ghrgp](https://github.com/2aman-0x/File_Ownership_commands.git)
 - [Find](https://github.com/2aman-0x/Find_Command_Overview.git)
