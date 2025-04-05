@@ -14,6 +14,7 @@
 - [SUID_and_SGID](https://github.com/2aman-0x/SUID_and_SGID.git)
 - [UMASK](https://github.com/2aman-0x/UMASK.git)
 - [Sticky_Bit](https://github.com/2aman-0x/sticky_bit.git)
+- [Redirection](https://github.com/2aman-0x/Linux_Redirection.git)
 - [Wild_Cards](https://github.com/2aman-0x/Wild_Cards-linux-.git)
 - [Disk_space_monitoring](https://github.com/2aman-0x/Disk_space_monitoring_command.git)
 - [POSFIX](https://github.com/2aman-0x/POSTFIX.git)
