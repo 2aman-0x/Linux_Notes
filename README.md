@@ -1,4 +1,4 @@
-<img src="Streaming Video Games GIF by Pudgy Penguins.gif" width="30%">
+<img src="Streaming Video Games GIF by Pudgy Penguins.gif" width="40%">
 
 ### Here's some notes about linux
 
