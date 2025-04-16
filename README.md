@@ -1,3 +1,5 @@
+<img src="Streaming Video Games GIF by Pudgy Penguins.gif" width="20%">
+
 ### Here's some notes about linux
 
 - [Wine](https://github.com/2aman-0x/wine.git)
