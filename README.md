@@ -1,6 +1,7 @@
-<img src="Streaming Video Games GIF by Pudgy Penguins.gif" width="40%">
 
-### Here's some notes about linux
+
+### Here's some notes about linux 
+<img src="Streaming Video Games GIF by Pudgy Penguins.gif" width="270px">
 
 ## Beginner Level
 
