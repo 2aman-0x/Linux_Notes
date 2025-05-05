@@ -1,6 +1,6 @@
 
 
-### Here's some notes about linux 
+### Notes about linux 
 <img src="Streaming Video Games GIF by Pudgy Penguins.gif" width="270px">
 
 ## Beginner Level
