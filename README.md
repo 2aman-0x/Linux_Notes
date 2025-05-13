@@ -76,3 +76,7 @@
 ## Others
 
 - [Wine](https://github.com/2aman-0x/wine.git)
+
+---
+
+[Shell](https://github.com/2aman-0x/littlepeek)
